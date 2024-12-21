@@ -1,9 +1,9 @@
 --------- Projeto de Manipulação de Imagens PGM ---------
-
+---
 Objetivo
 
 O objetivo deste projeto é adquirir conhecimentos sobre a manipulação de imagens em formato de matrizes, utilizando operações de controle e geração de novas imagens a partir de imagens lidas de arquivos no formato PGM.
----
+
 
 Descrição: O aplicativo desenvolvido realiza a leitura de uma imagem no formato PGM e permite a execução de diversas operações de manipulação sobre a imagem. Cada operação é realizada a partir de um menu interativo, gerando um novo arquivo PGM como resultado.
 
