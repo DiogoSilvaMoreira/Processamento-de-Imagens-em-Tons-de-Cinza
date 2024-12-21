@@ -1,4 +1,4 @@
---------- Projeto de Manipulação de Imagens PGM ---------
+ Projeto de Manipulação de Imagens PGM 
 ---
 Objetivo
 ---
